@@ -1,0 +1,8 @@
+printf "input : "
+$n = gets.to_i
+puts "\n#{$n}"
+a1=[$n,$n]
+for i in 3..10
+ b1=Array.new()
+ 
+end
